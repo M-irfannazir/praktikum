@@ -1,4 +1,4 @@
-# praktikum
+# Studi_Kasus_3_Irfan
 
 NAMA  : Muhammad Irfan Nazir
 NIM   : 2609116070
